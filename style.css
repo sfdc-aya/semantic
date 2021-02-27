@@ -1,0 +1,46 @@
+.container{
+  background-color: darkorange;
+  border: solid 5px dimgray;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+.header{
+  border: solid 4px dimgray;
+  background-color: lightgrey;
+  margin: 10px;
+}
+.nav{
+  border:solid 4px dimgray;
+  background-color: lightgrey;
+  margin: 10px;
+}
+.wrapper{
+  border: solid 4px dimgray;
+  background-color: lightgrey;
+  margin: 10px;
+}
+footer{
+  border: solid 4px dimgray;
+  background-color: lightgrey;
+  margin: 10px;
+}
+.content{
+  border: solid 4px dimgray;
+  display: inline-block;
+  vertical-align: top;
+  width: 200px;
+  margin: 10px;
+}
+.sidebar{
+  border: solid 4px dimgray;
+  display: inline-block;
+  vertical-align: top;
+  height: 92px;
+  width: 200px;
+  margin: 10px;
+}
+.sub{
+  border: solid 2px dimgray;
+  margin: 10px;
+}
